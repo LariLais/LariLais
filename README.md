@@ -1,8 +1,25 @@
 <h1 align="center">Olá! Eu sou a Larissa 👋</h1>
 
+Transformando ideias em código e desafios em soluções criativas 🚀
+
 🌱 Estudante de Engenharia de Software  
 💻 Front-end (Angular, React e JavaScript) e Back-end Developer (Java, Spring Boot e SQL)  
 🚀 Apaixonada por tecnologia e design  
+
+--
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+---
+
+### 💖 Coisas que amo
+
+🎬 Assistir filmes  
+🎮 Jogar  
+🌍 Aprender novas línguas  
+🎨 Pintar  
 
 ---
 
@@ -23,6 +40,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LariLais&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariLais&layout=compact&theme=radical" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LariLais&theme=radical" />
+</p>
 
 ---
 
