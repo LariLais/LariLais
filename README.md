@@ -1,5 +1,9 @@
 <h1 align="center">Olá! Eu sou a Larissa 👋</h1>
 
+<p align="center">
+  <img src="" width="200" alt="Larissa Lais">
+</p>
+
 Transformando ideias em código e desafios em soluções criativas 🚀
 
 🌱 Estudante de Engenharia de Software  
