@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Larissa 👋</h1>
 
 <p align="center">
-  <img src="" width="200" alt="Larissa Lais">
+  <img src="https://drive.google.com/file/d/1AtsdiszmX3IEDJZE5vEdIIo9AsGndXUD/view" width="200" alt="Larissa Lais">
 </p>
 
 Transformando ideias em código e desafios em soluções criativas 🚀
