@@ -1,13 +1,9 @@
-3,<h1 align="center">Olá! Eu sou a Larissa 👋</h1>
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/1AtsdiszmX3IEDJZE5vEdIIo9AsGndXUD/view?usp=sharing" width="200" alt="Larissa Lais">
-</p>
+<h1 align="center">Olá! Eu sou a Larissa 👋</h1>
 
 Transformando ideias em código e desafios em soluções criativas 🚀
 
 🌱 Estudante de Engenharia de Software  
-💻 Front-end (Angular, React e JavaScript) e Back-end Developer (Java, Spring Boot e SQL)  
+💻 Front-end (Angular, React e JavaScript) e Back-end Developer (Node, Java, Spring Boot e SQL)  
 🚀 Apaixonada por tecnologia e design  
 
 --
